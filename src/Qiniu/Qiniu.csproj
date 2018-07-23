@@ -2,19 +2,20 @@
 
   <PropertyGroup>
     <TargetFrameworks>net45;net46;netstandard2.0</TargetFrameworks>
-    <Company>Qiniu Cloud</Company>
-    <Authors>Qiniu</Authors>
+    <Authors>PM Extra</Authors>
     <Product>Qiniu (Cloud) C# SDK</Product>
-    <Description>Qiniu (Cloud) C# SDK</Description>
+    <Description>Qiniu (Cloud) C# SDK
+
+This is an unofficial package that followed official codes and published for NetStandard.</Description>
     <Version>7.3.2</Version>
     <PackageProjectUrl>https://developer.qiniu.com/</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/qiniu/csharp-sdk/blob/master/LICENSE</PackageLicenseUrl>
-    <RepositoryUrl>https://github.com/qiniu/csharp-sdk</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/PMExtra/qiniu-sdk-csharp/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/PMExtra/qiniu-sdk-csharp</RepositoryUrl>
     <PackageIconUrl>http://assets.qiniu.com/qiniu-55x41.png</PackageIconUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Qiniu SDK Standard Core NetCore</PackageTags>
-    <Copyright>Copyright © 2018 Qiniu Cloud</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Qiniu.SDK</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
