@@ -6,8 +6,12 @@
     <Product>Qiniu (Cloud) C# SDK</Product>
     <Description>Qiniu (Cloud) C# SDK
 
-This is an unofficial package that followed official codes and published for NetStandard.</Description>
-    <Version>7.3.2</Version>
+This is an unofficial package that's based on official SDK, and:
+1. Support NetStandard;
+2. Use async api.
+
+It have been merged into official git as a seperate branch: https://github.com/qiniu/csharp-sdk/tree/3rd-party-net-standard</Description>
+    <Version>8.0.0</Version>
     <PackageProjectUrl>https://developer.qiniu.com/</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/PMExtra/qiniu-sdk-csharp/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/PMExtra/qiniu-sdk-csharp</RepositoryUrl>
